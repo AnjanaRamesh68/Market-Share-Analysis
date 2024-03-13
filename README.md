@@ -1,1 +1,2 @@
 # Market-Share-Analysis
+ Using data sourced from the RBI website, I've curated and cleaned datasets to analyze bank market shares based on debit and credit card volumes, transaction sizes, and spend per card. The Power BI dashboard offers a concise and dynamic visualization of key performance indicators, empowering stakeholders to make informed decisions and drive strategic growth in the competitive banking landscape.
